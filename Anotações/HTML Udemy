@@ -1,0 +1,32 @@
+- Tag normal: É necessário abrir <h1> e fechar </h1>
+- Tag que fecha em si mesma: <meta.....>
+- Tag de título: <h1> ... </h1>, <h2>, <h3> ... <h6>.
+- Tag de quebra de linha: <br>
+- Tag de parágrafo: <p> ... </p>
+- Tag de LINHA HORIZONTAL: <hr>
+
+-> Lista não ordenada: <ul> ... </ul>
+  - Contém elementos: <li> ... </li>
+-> Lista ordenada: <ol> ... </ul>
+
+-> Imagens: <img src="endereço" ....>
+  - Width, Weight, etc
+  
+-> Links: são feitos usando a tag <a href="endereço"> </a>
+   - Os links podem ser internos ou externos.
+   
+-> Tabelas: 
+  - th: Títulos
+  - tr: Linhas
+  - td: Conteúdos
+  - RowSpan e ColSpan
+  
+-> Formulários:
+  - <form>
+  - <input text/password/button/submit/Radio/checkbox/>
+  - <select>
+  - <option>
+  - <textarea>
+  
+-> Usar tabela de "HTML Entities" para Carac Especiais
+
